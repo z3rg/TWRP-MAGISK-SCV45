@@ -39,11 +39,15 @@ Specs dari Galaxy SCV45 (Samsung Galaxy Note 10+ Snapdragon version nama kode "d
    
 6. (_Optional_) Jika ingin merubah firmware versi jepang / SCV45 (d2q) ke USA Unlocked / SM-N975U1 (d2qui)
 
-   
+7. (_Optional_) Update AP file dengan milik SM-N975U1 >> Link http:____
 
-8. Clone semua file dari repo ini dan masukan file bernama twrp-3.7.0_9-0-d2q.img.tar
+   ![image](https://github.com/z3rg/TWRP-MAGISK-SCV45/assets/3973856/60645021-e3d9-4c29-8281-8d51f8edac2c)
+
+8. Clone semua file dari repo ini dan masukan file bernama twrp-3.7.0_9-0-d2q.img.tar serta klik start sampai pesan menjadi hijau dan bertuliskan PASS
    
    ![image](https://github.com/z3rg/TWRP-MAGISK-SCV45/assets/3973856/5c9cdf0d-9883-41f4-83d7-5e616a6f438e)
+
+
 
 
 
