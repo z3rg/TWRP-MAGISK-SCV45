@@ -39,13 +39,38 @@ Specs dari Galaxy SCV45 (Samsung Galaxy Note 10+ Snapdragon version nama kode "d
    
 6. (_Optional_) Jika ingin merubah firmware versi jepang / SCV45 (d2q) ke USA Unlocked / SM-N975U1 (d2qui)
 
-7. (_Optional_) Update AP file dengan milik SM-N975U1 >> Link http:____
+7. (_Optional_) Update AP file dengan milik SM-N975U1 (extract file zip yang 6GB an untuk mendapatkan file AP-nya) >> Link [http:____](https://drive.google.com/drive/folders/1nkPuogX9VF5LooWhmuBdaENANV1BhtrN?usp=sharing)
 
    ![image](https://github.com/z3rg/TWRP-MAGISK-SCV45/assets/3973856/60645021-e3d9-4c29-8281-8d51f8edac2c)
 
 8. Clone semua file dari repo ini dan masukan file bernama twrp-3.7.0_9-0-d2q.img.tar serta klik start sampai pesan menjadi hijau dan bertuliskan PASS
    
    ![image](https://github.com/z3rg/TWRP-MAGISK-SCV45/assets/3973856/5c9cdf0d-9883-41f4-83d7-5e616a6f438e)
+
+9. Pastikan jangan mencentang pilihan "option > auto reboot"
+10. Lalu keluar dari menu Download mode dengan tekan vol down + power
+11. Setelah reboot akan ada beberapa notifikasi yang harus dikonfirmasi, untuk itu pada notifikasi pertama tekan power untuk konfirmasi ok , setelah itu masuk ke recovery mode dengan menekan tombol vol up + power
+12. Setelah itu pada recovery lakukan wipe data
+
+![Format-Data-in-TWRP-on-Samsung-Galaxy-Note-10-Plus](https://github.com/z3rg/TWRP-MAGISK-SCV45/assets/3973856/12837986-f24f-49e0-a887-dbc7773a91f3)
+
+14. Berikut adalah cara install multidisabler-12.zip (multidisabler ini berlaku untuk Android 12) >> file ini membuat recovery mode twrp menjadi imun untuk di kembalikan dan di lakukan reset oleh file recovery Bawaan
+
+![Install-Multi-Disabler-on-Samsung-Galaxy-Note-10-Plus](https://github.com/z3rg/TWRP-MAGISK-SCV45/assets/3973856/b49d2c5e-07a3-4392-a374-238664d3790f)
+
+14. Setelah itu lakukan install flash zip twrp , file ada pada [http:____](https://drive.google.com/drive/folders/1nkPuogX9VF5LooWhmuBdaENANV1BhtrN?
+
+![magisk-zip](https://github.com/z3rg/TWRP-MAGISK-SCV45/assets/3973856/b4a3cfea-c353-4781-a151-b719b1a1b9fb)
+
+15. Setelah melakukan langkah 14 kembali kemenu reboot dan pilih reboot system
+16. Tunggu beberapa saat, Setelah masuk ke dalam android silahkan setup dan lakukan penginstallan Magisk.apk
+17. Jika semua lancar maka command su/root dapat diverifikasi oleh aplikasi root checker
+
+
+
+
+
+
 
 
 
