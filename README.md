@@ -66,9 +66,12 @@ Specs dari Galaxy SCV45 (Samsung Galaxy Note 10+ Snapdragon version nama kode "d
 16. Tunggu beberapa saat, Setelah masuk ke dalam android silahkan setup dan lakukan penginstallan Magisk.apk
 17. Jika semua lancar maka command su/root dapat diverifikasi oleh aplikasi root checker
 
+![image](https://github.com/z3rg/TWRP-MAGISK-SCV45/assets/3973856/4200ae08-32de-4b92-96ca-b7a05e0d40b2)
 
 
+## Demikian cara dan tools yang dapat saya share untuk rooting dan ubah Firmware untuk SCV45
 
+#Terima Kasih / Thank You
 
 
 
