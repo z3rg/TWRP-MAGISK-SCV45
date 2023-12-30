@@ -27,6 +27,9 @@ Specs dari Galaxy SCV45 (Samsung Galaxy Note 10+ Snapdragon version nama kode "d
 2. Unlock OEM Bootloader :
    ![image](https://github.com/z3rg/TWRP-MAGISK-SCV45/assets/3973856/d50302be-0d74-42dd-ba06-0a2f3d67594c)
 
-3. 
+3. Lalu matikan Ponsel dan jika sudah mati total tekan tombol power + vol up + vol down secara bersamaan maka akan muncul pesan seperti ini :
+   ![image](https://github.com/z3rg/TWRP-MAGISK-SCV45/assets/3973856/ab4aa628-aa51-46ec-9377-f24c6cabc3ea)
+
+   
 
 
